@@ -1,5 +1,4 @@
-
-<font size="3">本工程为Android静默安装程序源码</font>
+<h3>本工程为Android静默安装程序源码</h3>
 
 主要的文件如下：
 
